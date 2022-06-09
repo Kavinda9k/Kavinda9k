@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kavinda9k
-- 👀 I’m interested in fromt end development
-- 🌱 I’m currently learning Javascript & React
+- 🌱 I’m currently learning React & NodeJs
 - 💞️ I’m looking to collaborate on learning javascript
 
 <!---
